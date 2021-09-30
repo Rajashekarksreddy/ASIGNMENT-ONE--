@@ -30,7 +30,7 @@ function play(question, answer) {
 
 
 var questions = [{
-   question:"who is the cheif minister of andhra pradesh?",
+   question:"who is the cheif minister of andhra Pradesh?",
   answer: "ys jaganmohanreddy"
 } , {
     
